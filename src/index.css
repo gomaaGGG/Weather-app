@@ -3,7 +3,7 @@ font-family: "Open sans " serif;
 margin: 0;
 }
 .wrapper{
-background: linear-gradient(#7b7b7b,#55cccc);
+background: linear-gradient(#c4c4c4,#55cccc);
 height: 100vh;
 display: flex;
 align-items: center;
